@@ -1,3 +1,3 @@
 # projectf README #
-Fun with network commands
+Just having fun with network commands
 Minor Change
